@@ -1,0 +1,16 @@
+/* Generated from wallpaper: deskset.png */
+
+* {
+    bg:          #191a19;
+    fg:          #d2c8bc;
+    accent:      #d3a069;
+    accent-2:    #d1d6a3;
+    border:      #d3a069;
+    urgent:      #cb8a86;
+    selected-fg: #d2c8bc;
+    entry-fg:    #d1d6a3;
+    prompt-fg:   #d3a069;
+    header:      #d1d6a3;
+
+    background-color: @bg;
+}

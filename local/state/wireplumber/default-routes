@@ -1,0 +1,3 @@
+[default-routes]
+alsa_card.usb-Generic_AB13X_USB_Audio_20210726905926-00:output:analog-output={"mute":false, "channelMap":["FL", "FR"], "channelVolumes":[0.211799, 0.211799], "latencyOffsetNsec":0}
+alsa_card.usb-Generic_AB13X_USB_Audio_20210726905926-00:profile:output:analog-stereo+input:analog-stereo=["analog-output"]

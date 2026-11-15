@@ -1,0 +1,16 @@
+/* Generated from wallpaper: czd.png */
+
+* {
+    bg:          #1b1a18;
+    fg:          #d2c8bc;
+    accent:      #53b7c6;
+    accent-2:    #c29170;
+    border:      #53b7c6;
+    urgent:      #cb8a86;
+    selected-fg: #d2c8bc;
+    entry-fg:    #c29170;
+    prompt-fg:   #53b7c6;
+    header:      #c29170;
+
+    background-color: @bg;
+}

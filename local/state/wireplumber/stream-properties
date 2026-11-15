@@ -1,0 +1,6 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false}
+Output/Audio:application.name:terminology={"mute":false, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "volume":1.000000}
+Output/Audio:application.name:C*\sMusic\sPlayer={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false, "channelMap":["FL", "FR"]}
+Output/Audio:application.name:Brave={"channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false}
+Input/Audio:application.name:Quickshell\sPeak\sDetect={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false, "volume":1.000000}

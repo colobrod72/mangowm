@@ -1,0 +1,60 @@
+
+   <------ Dux_installer_archlinux ---->
+ curl -fsSL https://install.duxlabs.dev | sh
+
+      <-------- Waybar ------->
+    git clone https://github.com/tonybanters/waybar
+  cp -r waybar/* ~/.config/mango/.
+         nano .config/mango/autostart.sh
+       waybar -c ~/.config/mango/config.jsonc -s ~/.config/
+    mango/style.css >/dev/null 2>&1 &
+  swaybg -i ~/.config/mango/wallpaper/czd.png >/dev/null 2>&1 &
+  
+                      <----- Script_Sckreenshot --->
+   #!/bin/bash
+   grim -l 0 -g "$(slurp)" - | wl-copy
+   
+
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    sudo -v && curl -fsSL https://install.duxlabs.dev | sh -s -- -c niri -t ghostty -y
+ 
+
+                    
